@@ -16,6 +16,9 @@ Criação de testes automatizados para a aplicação desenvolvida em grupo no ú
 - Para que a aplicação Agenda de Contatos seja executada, através da IDE Visual Studio Code, instale o plugin Live Server
 ![Live Server](https://media.geeksforgeeks.org/wp-content/uploads/20221201183502/Enableliveserver3.jpg)
 
+- Para limpar os dados cadastrados, na pasta do backend, dentro da pasta dados, tem dois arquivos de texto, um para armazenar os dados de usuário e outro os dados de contato. Basta
+que abra o arquivo e delete o seu conteúdo, ou até mesmo apagar o próprio arquivo que o servidor cria um novo.
+
 ## 🔨 Funcionalidades do projeto
 
 ### Motivação
